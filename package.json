@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "frontend application using Electron with integration of OpenAI Api and Supabase.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amorlea/frontend.git"
+  },
+  "author": "Amor Lea T. Palatolon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amorlea/frontend/issues"
+  },
+  "homepage": "https://github.com/amorlea/frontend#readme",
+  "devDependencies": {
+    "electron": "^24.3.1"
+  }
+}
